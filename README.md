@@ -24,7 +24,7 @@
 
 ## 🧐 Sobre <a name = "sobre"></a>
 
-Esse projeto pessoal busca replicar uma galeria de fotos.
+Esse projeto pessoal usa das ferramentas do Firebase, React e Bootstrap para replicar uma galeria de fotos.
 
 ## 🏁 Primeiros Passos <a name = "primeiros_passos"></a>
 
